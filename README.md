@@ -13,6 +13,7 @@ A hands-on workshop for learning Git workflows, code reviews, and agile project 
 | [Pull Requests](docs/pull-requests.md) | PRs, code reviews, and commit hygiene |
 | [Issues & Projects](docs/issues-and-projects.md) | Issue templates and Kanban board setup |
 | [Agile Basics](docs/agile-basics.md) | Milestones, user stories, and iterations |
+| [Team Kanban Board](https://github.com/users/Carlomos7/projects/10/views/1) | Track issues across Backlog, In Progress, In Review, and Done |
 
 ---
 
