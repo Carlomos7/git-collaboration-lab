@@ -34,7 +34,7 @@ All feature work should be done on a branch created from `dev`.
 
 ---
 
-## Exercise: Add Yourself to the Roster
+## Exercise 1: Add Yourself to the Roster
 
 Complete this task to practice the core workflow:
 
@@ -67,3 +67,35 @@ Complete this task to practice the core workflow:
 | Name | Role | GitHub |
 |------|------|--------|
 | | | |
+
+---
+
+## Exercise 2: Add Your Print Statement
+
+Practice the workflow with a code file:
+
+- **Create an issue** using the User Story template
+- **Create a feature branch** from `dev`:
+
+```bash
+   git checkout dev
+   git pull origin dev
+   git checkout -b feature/hello-yourname
+```
+
+- **Add a print statement** to `hello.py`:
+
+```python
+   print("Hello, I'm [Your Name]!")
+```
+
+- **Commit and push**:
+
+```bash
+   git add hello.py
+   git commit -m "feat: add [Your Name] print statement"
+   git push -u origin feature/hello-yourname
+```
+
+- **Open a Pull Request** targeting `dev`
+- **Request a review** from a teammate
