@@ -4,6 +4,18 @@ A hands-on workshop for learning Git workflows, code reviews, and agile project 
 
 ---
 
+## Getting Started
+
+Clone the repository and switch to the development branch before starting any work.
+
+```bash
+git clone https://github.com/Carlomos7/git-collaboration-lab.git
+cd git-collaboration-lab
+git checkout dev
+```
+
+All feature work should be done on a branch created from `dev`.
+
 ## Quick Links
 
 | Topic | Description |
