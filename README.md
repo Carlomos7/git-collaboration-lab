@@ -1,5 +1,10 @@
 # Git Collaboration Lab
 
+[![Open Issues](https://img.shields.io/github/issues-raw/Carlomos7/git-collaboration-lab?labelColor=303446&style=for-the-badge)](https://github.com/Carlomos7/git-collaboration-lab/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed-raw/Carlomos7/git-collaboration-lab?labelColor=303446&style=for-the-badge)](https://github.com/Carlomos7/git-collaboration-lab/issues?q=is%3Aissue+is%3Aclosed)
+[![Repo Size](https://img.shields.io/github/repo-size/Carlomos7/git-collaboration-lab?labelColor=303446&style=for-the-badge)](https://github.com/Carlomos7/git-collaboration-lab)
+[![Milestones](https://img.shields.io/github/milestones/all/Carlomos7/git-collaboration-lab?labelColor=303446&style=for-the-badge)](https://github.com/Carlomos7/git-collaboration-lab/milestones)
+
 A hands-on workshop for learning Git workflows, code reviews, and agile project management.
 
 ---
