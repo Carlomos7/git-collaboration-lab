@@ -66,7 +66,7 @@ Complete this task to practice the core workflow:
 
 | Name | Role | GitHub |
 |------|------|--------|
-| | | |
+| Chenchen| Developer| [chenchenchen12345] https://github.com/chenchenchen12345|
 
 ---
 
