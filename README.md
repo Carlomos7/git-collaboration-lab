@@ -67,6 +67,7 @@ Complete this task to practice the core workflow:
 | Name | Role | GitHub |
 |------|------|--------|
 | Carlos Segarra | Developer | [Carlomos7](https://github.com/Carlomos7) |
+|Hayden Ferguson |Developer |[Hayden-Ferguson](https://github.com/Hayden-Ferguson) |
 
 ---
 
