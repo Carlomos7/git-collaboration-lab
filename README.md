@@ -69,6 +69,7 @@ Complete this task to practice the core workflow:
 | Carlos | Developer | [Carlomos7](https://github.com/Carlomos7) |
 | Hayden | Developer | [Hayden-Ferguson](https://github.com/Hayden-Ferguson) |
 | Chenchen | Developer | [chenchenchen12345](https://github.com/chenchenchen12345) |
+| Jeff | Developer | [JeffreyM10](https://github.com/jeffreym10) |
 
 ---
 
